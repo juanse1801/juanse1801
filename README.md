@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Juan Sebastian Salazar</h1>
+<h1 align="center">Hola 👋, Soy Juan Sebastian Salazar</h1>
 <h3 align="center">Desarrollador web full stack y estudiante de ingeniería multimedia, apasionado por la programación, el diseño y el desarrollo web.</h3>
 
 
