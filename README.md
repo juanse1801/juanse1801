@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Juan Sebastian Salazar</h1>
 <h3 align="center">Desarrollador web full stack y estudiante de ingeniería multimedia, apasionado por la programación, el diseño y el desarrollo web.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=juanse1801&label=Profile%20views&color=259be4&style=flat" alt="juanse1801" /> </p>
-
 - 🌱 Actualmente estoy aprendiendo **TypeScript, React native**
 
-- 📫 Contacto **juansebastiansalazargonzalez@gmail.com**
+- 📫 Contacto
+- **juansebastiansalazargonzalez@gmail.com**
+- **+57 3052378820**
 
 <h3 align="left">Conecta conmigo:</h3>
 <p align="left">
