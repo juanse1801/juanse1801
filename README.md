@@ -3,9 +3,7 @@
 
 - 🌱 Actualmente estoy aprendiendo **TypeScript, React native**
 
-- 📫 Contacto
- **juansebastiansalazargonzalez@gmail.com**
- **+57 3052378820**
+- 📫 Contacto **juansebastiansalazargonzalez@gmail.com**
 
 <h3 align="left">Conecta conmigo:</h3>
 <p align="left">
