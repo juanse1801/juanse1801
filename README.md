@@ -3,7 +3,7 @@
 
 
 
-- 🌱 Actualmente estoy aprendiendo **TypeScript, React native Y Angular**
+- 🌱 Actualmente estoy aprendiendo **TypeScript y Nest.js**
 
 - 📫 Contacto **juansebastiansalazargonzalez@gmail.com**
 
