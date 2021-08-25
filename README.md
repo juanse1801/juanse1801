@@ -3,7 +3,7 @@
 
 
 
-- 🌱 Actualmente estoy aprendiendo **TypeScript y Nest.js**
+- 🌱 Actualmente me desempeño como Full Stack Developer para Torrens University Australia.
 
 - 📫 Contacto **juansebastiansalazargonzalez@gmail.com**
 
