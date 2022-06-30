@@ -3,7 +3,7 @@
 
 
 
-- 🌱 Actualmente me desempeño como Full Stack Developer para Torrens University Australia.
+- 🌱 Actualmente me desempeño como Software Developer para Mercado Libre.
 
 - 📫 Contacto **juansebastiansalazargonzalez@gmail.com**
 
