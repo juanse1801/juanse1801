@@ -3,7 +3,7 @@
 
 
 
-- 🌱 Actualmente me desempeño como Software Developer para Mercado Libre.
+- 🌱 Actualmente me desempeño como Software Developer para Yuno.
 
 - 📫 Contacto **juansebastiansalazargonzalez@gmail.com**
 
